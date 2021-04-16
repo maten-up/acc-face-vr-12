@@ -1,7 +1,7 @@
 
 const Discord = require("discord.js");
-const myid = ['id xot'] ////////////////////prefix wara 
-const jano = new Discord.Client();
+const myid = ['762335886259257365'] ////////////////////prefix wara 
+const jano = new Discord.Client("ODMyMzUzMDEyMjU3MjU5NTQ5.YHikCg.f6rk7rBjmGRJy7zh9AqvflpNOmA");
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
 const jano4 = new Discord.Client();
@@ -7392,14 +7392,14 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
-jano7.login("");
-jano8.login("");
+jano.login("ODMyMzg0MjIzODYzODk4MTIz.YHjAsw.I16JwDuIBiVhjgSTVXmgGRlSr-g");
+jano2.login("ODMyMzg0MjIzODYzODk4MTIz.YHjAsw.I16JwDuIBiVhjgSTVXmgGRlSr-g");
+jano3.login("ODMyMzgxNzI4MTY5NTI1MjUw.YHi-Sg.3nqGPgaUvhTnVGxohU6MxN6g0nY");
+jano4.login("ODMyMzgzMzgwOTE3ODQ2MDM2.YHjADA.BHy3AcRBO1DJsGGmaRy0lAy2MiM");
+jano5.login("ODMyMzgxNzI4MTY5NTI1MjUw.YHi-Sg.3nqGPgaUvhTnVGxohU6MxN6g0nY");
+jano6.login("ODMyMzgyNDUzNDE4Mjk1Mjk3.YHi_KQ.fv83QEbQgJkXRr_OQPSNO713X2Y");
+jano7.login("ODMyNDIwOTg5MDM5ODA0NDY3.YHjjNw.5JPqzr8wF_e61J7JmXKqq4zsul4");
+jano8.login("ODMyMDA4Mjk4NTQ2MzMxNjU4.YHi9EA.Pkp6VYspgrmLX_BqQW92EKj1DmU");
 jano9.login("");
 jano10.login("");
 jano11.login("");
